@@ -1,5 +1,5 @@
 # weather-file-generator
-Generates EnergyPlus compatible weather file using Darksky API
+Generates EnergyPlus compatible weather file using [Darksky API](https://darksky.net/dev)
 
 ## darksky.py
 The darksky.py file requires a Darksky API Key which should be set in a .env file (view .env.example for reference)
